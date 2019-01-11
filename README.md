@@ -21,7 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Arial_ and `Bold` text
 
 [Link](url) and ![Image](src)
 ```
